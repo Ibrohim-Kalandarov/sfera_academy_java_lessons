@@ -47,7 +47,6 @@
          </ul>
      </details> 
   </ul>
-  
 </details>
 
 <details>
@@ -56,10 +55,12 @@
     <details>
       <summary>Encapsulation</summary>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Encapsulation nima?</li>
+        <li>Data Hiding nima?</li>
+        <li>Encapsulationga qanday erishamiz?</li>
+        <li>Encapsulation afzalliklari nimada?</li>
+        <li>Nega fieldlar private bo'lishi kerak?</li>
+        <li>Getter Setter metodlari vazifasi nimadan iborat?</li>
       </ul> 
      </details>
    </ul>  
@@ -67,16 +68,59 @@
     <details>
       <summary>Packaging</summary>
       <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Packagelash nima uchun kerak?</li>
+      <li>Packagelarni qanday nomlash kerak?</li>
+      <li>Package a'zolari (members) deb nimaga aytiladi?</li>
+      <li>Tashqi packagelardan foydalanishni qanday turlari bor?</li>
     </ul>
     </details>
   </ul>
+</details>
 
-
-  
+<details>
+  <summary>Lesson 3</summary>
+  <ul>
+    <details>
+      <summary>Inheritance</summary>
+      <ul>
+        <li>Inheritance nima?</li>
+        <li>Inheritance nima uchun kerak?</li>
+        <li>Inheritanceni qanday turlari bor?</li>
+        <li>Javada bir nechta Inheritancedan foydalansa bo'ladimi?</li>
+        <li>Superclass nima? Subclass nima?</li>
+        <li>Subclass Superclassdan nimalarini meros qilib oladi?</li>
+        <li>Cosmic class qanday class?</li>
+        <li>Cosmic classning qanday metodlari bor?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Access Modifiers</summary>
+      <ul>
+        <li>Access Modifierlar vazifasi nima?</li>
+        <li>Access Modifierning qanday turlari bor?</li>
+        <li>Access modifierlarni qaysilarini class bilan ishlata olamiz?</li>
+        <li>private class yarata olamizmi? Mumkin bo'lsa qanday holatda?</li>
+        <li>private constructor yarata olamizmi? Uning vazifasi qanday bo'ladi?</li>
+        <li>Superclassning protected metodidan foydalana olamizmi?</li>
+        <li>private modifier nimalarda ishlatiladi va ishlatish uchun qayerlarga ruxsat beradi?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Relationships</summary>
+      <ul>
+        <li>Relationship nima?</li>
+        <li>User-A munosabat turi qayerda ishlatiladi?</li>
+        <li>Has-A munosabat turi qayerda ishlatiladi?</li>
+        <li>Is-A munosabat turi qayerda ishlatiladi?</li>
+        <li>Has-A munosabatning qanday turlari bor?</li>
+        <li>Composition, Aggregation va Association farqlari nimada?</li>
+      </ul>
+    </details>
+  </ul>
 </details>
 
 
