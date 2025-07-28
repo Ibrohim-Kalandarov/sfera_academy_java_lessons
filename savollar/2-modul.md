@@ -123,6 +123,61 @@
   </ul>
 </details>
 
+<details>
+  <summary>Lesson 4</summary>
+  <ul>
+    <details>
+      <summary>Polymorphism</summary>
+      <ul>
+        <li>Polymorphism nima?</li>
+        <li>Polymorphism turlari</li>
+        <li>Static Polymorphism nima?</li>
+        <li>Dinamic Polymorphism nima?</li>
+        <li>Polymorphism afzalliklari</li>
+        <li>Polymorphism bilan Inheritance farqi</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Overloading</summary>
+      <ul>
+        <li>Overloading nima?</li>
+        <li>Overloading qoidalari</li>
+        <li>Bir xil signature va har xil return type ga ega bo'lagan methodlar yarata olamizmi?</li>
+        <li>Static methodlarni overload qila olamizmi?</li>
+        <li>Overloading Dynamic binding ga misol bola oladimi?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Overriding</summary>
+      <ul>
+        <li>Relationship nima?</li>
+        <li>Overriding nima?</li>
+        <li>Override methodni qoidalari</li>
+        <li>Override qilingan methodni signatureini o'zgartira olamizmi ?</li>
+        <li>Class fieldlari override bo'ladimi?</li>
+        <li>Binding nima?</li>
+        <li>Static Binding nima?</li>
+        <li>Dynamic Binding nima?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Access Modifier in case Inheritance</summary>
+      <ul>
+        <li>Static Methodlarni Override qila olamizmi?</li>
+        <li>final Methodlarni Override qila olamizmi?</li>
+        <li>private Methodlarni Override qila olamizmi?</li>
+        <li>protected Methodlarni Override qila olamizmi?</li>
+        <li>protected Methodni Override qilib boshqa access modifier bilan e'lon qila olamizmi?</li>
+      </ul>
+    </details>
+  </ul>
+</details>
 
 
 
