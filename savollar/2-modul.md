@@ -179,6 +179,60 @@
   </ul>
 </details>
 
+<details>
+  <summary>Lesson 5</summary>
+  <ul>
+    <details>
+      <summary>Abstraction</summary>
+      <ul>
+        <li>Abstraction nima?</li>
+        <li>Abstractionga qanday erishiladi?</li>
+        <li>Concrete class qanday class?</li>
+        <li>Concrete class bilan Abstract class ni farqi nimada?</li>
+        <li>Abstract class qoidalari</li>
+        <li>Abstract method qoidalari</li>
+        <li>Abstractionning afzalliklari</li>
+        <li>Abstract class dan obyekt yarata olamizmi?</li>
+        <li>Abstract method static bo'lishi mumkinmi?</li>
+        <li>Abstract class ga constructor yoza olamizmi?</li>
+        <li>Abstract class ga private method yoza olamizmi?</li>
+        <li>Abstract class kamchiliklari</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Interface</summary>
+      <ul>
+        <li>Interface nima?</li>
+        <li>Interface nima uchun kerak?</li>
+        <li>Interface ning afzalliklari</li>
+        <li>Interface qoidalari</li>
+        <li>Qaysi Access Modifierni Interface methodlariga qo'llab bo'lmaydi?</li>
+        <li>Interface dan object yarata olamizmi?</li>
+        <li>Interface da static method yarata olamizmi?</li>
+        <li>Interface multiple inheritance ni qo'llab-quvvatlaydimi?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Abstract class VS Interface</summary>
+      <ul>
+        <li>Abstract class va Interface farqlari</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Marker Interface</summary>
+      <ul>
+        <li>Marker Interface nima?</li>
+        <li>Marker Interface ga misollar keltiring</li>
+      </ul>
+    </details>
+  </ul>
+</details>
 
 
 
