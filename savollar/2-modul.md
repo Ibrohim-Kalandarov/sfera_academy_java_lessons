@@ -234,7 +234,56 @@
   </ul>
 </details>
 
-
+<details>
+  <summary>Lesson 6</summary>
+  <ul>
+    <details>
+      <summary>Wrapper Classes</summary>
+      <ul>
+         <li>Wrapper classlar nima?</li>
+        <li>Wrapper classlar nima uchun kerak?</li>
+        <li>Qanday Wrapper classlar mavjud?</li>
+        <li>Number classning subclasslari qaysilar?</li>
+        <li>Character class qaysi Interface lardan voris olgan?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Big Numbers</summary>
+      <ul>
+         <li>Big Numbersni qanday turlari bor?</li>
+        <li>BigNumber class vazifasi nima?</li>
+        <li>BigDecimel class vazifasi nima?</li>
+        <li>Arefmetik ammalarini (+,-,/,*) bu classlar bilan ishlata olamizmi?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>AutoBoxing and UnBoxing</summary>
+      <ul>
+         <li>AutoBoxing and UnBoxing nima uchun kerak?</li>
+        <li>AutoBoxing nima?</li>
+        <li>UnBoxing nima?</li>
+        <li>Widening nima?</li>
+        <li>Narrowing nima?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Inner Class</summary>
+      <ul>
+         <li>Inner Class nima?</li>
+        <li>Inner Class foydali tomonlari</li>
+        <li>Inner Class ni qanday turlari mavjud?</li>
+        <li>Static Inner Class Outer Classning non-static fieldlarga murojat qila oladimi ?</li>
+        <li>Local innner class larni access modifierlar bilan e'lon qilib bo'ladimi ?</li>
+      </ul>
+    </details>
+  </ul>
+</details>
 
 
 
