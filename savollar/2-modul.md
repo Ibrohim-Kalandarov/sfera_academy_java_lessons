@@ -285,6 +285,70 @@
   </ul>
 </details>
 
+<details>
+  <summary>Lesson 7</summary>
+  <ul>
+    <details>
+      <summary>Memory Management</summary>
+      <ul>
+         <li>Memory Management nima?</li>
+        <li>Qanday JVM xotira turlari bor?</li>
+        <li>Asosiy xotiralar qaysilar?</li>
+        <li>Memory Management ni o'rganish qanchalik muhim?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Stack Memory</summary>
+      <ul>
+         <li>Stack qanaqa xotira?</li>
+        <li>Stack Frame nima?</li>
+        <li>Stack xotira afzalliklari</li>
+        <li>Stack xotira kamchiliklari</li>
+        <li>LIFO nima?</li>
+        <li>StackOverflow qachon yuzaga keladi?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Heap and Method Area</summary>
+      <ul>
+        <li>Heap qanday qismlardan iborat?</li>
+        <li>Nursery Space nima?</li>
+        <li>Tenured Space nima?</li>
+        <li>Permanent Generation nima?</li>
+        <li>Metaspace nima?</li>
+        <li>Method Area nima?</li>
+        <li>Major GC bilan Minor GC ni farqi nimada?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Method Parameters</summary>
+      <ul>
+         <li>Method Parameters ning turlarini ayting</li>
+        <li>Passing by Value nima?</li>
+        <li>Passing by Reference nima?</li>
+        <li>Javada passing by referance bormi?</li>
+        <li>Variable Arguments nima?</li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>Garbage Collector</summary>
+      <ul>
+        <li>Garbage Collector nima va uning vazifasi nima?</li>
+        <li>Garbage Collector ishlashini tushuntiring.</li>
+        <li>Sweeping turlari</li>
+      </ul>
+    </details>
+  </ul>
+</details>
+
 
 
 
