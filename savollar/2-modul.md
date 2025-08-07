@@ -349,6 +349,147 @@
   </ul>
 </details>
 
+<details>
+  <summary>Lesson 8</summary>
+  <ul>
+    <details>
+      <summary>Non-Access Modifiers</summary>
+      <ul>
+         <li>Non-Access Modifiers turlari qaysilar?</li>
+         <li>volatile modifieri qayerda ishlatiladi?</li>
+         <li>static modifier qayerlarda ishlatish mumkin-u qayerlarda mumkin emas</li>
+        <li>Non-Access Modifier larni qayerlarda qo'llanishini ayting.</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Record Class</summary>
+      <ul>
+         <li>Record Class qanday class</li>
+         <li>Record Class ni Javaga qo'shilishidan maqsad nima edi?</li>
+        <li>Record Class ga qanday Constructor yozishimiz mumkin</li>
+        <li>Record Classni qanday Constructorlari bor?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary> Sealed Classes</summary>
+      <ul>
+        <li>Sealed Class qanday class?</li>
+        <li>Sealed Class nima uchun kerak?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Static and Instance Initializer Block</summary>
+      <ul>
+         <li>Instance Initializer Block nima uchun kerak?</li>
+        <li>Instance Initializer Block qachon ishlaydi?</li>
+        <li>Static Block qachon ishlaydi?</li>
+        <li>Static va Instance Block farqlari</li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>Variable Shadowing and Variable Hiding</summary>
+      <ul>
+        <li>Variable Shadowing nima? qachon sodir bo'ladi?</li>
+        <li>Variable Hiding nima? qachon sodir bo'ladi?</li>
+      </ul>
+    </details>
+  </ul>
+</details>
+
+<details>
+  <summary>Lesson 9</summary>
+  <ul>
+    <details>
+      <summary>Type inference</summary>
+      <ul>
+         <li>Type inference nima?</li>
+         <li>var keywordni qachon ishlata olamiz, qachon ishlata olmaymiz?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Enum Classes</summary>
+      <ul>
+         <li>Enum Class qanday class?</li>
+         <li>Enum Classidan Object yaratib bo'ladimi?</li>
+        <li>Enum Class larning afzallik tamonlari</li>
+        <li>Enum Class Interfacedan voris ola oladimi?</li>
+        <li>Enum Class da Constructor yarata olamizmi?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Design Patterns</summary>
+      <ul>
+        <li>Design Pattern nima?</li>
+        <li>Design Pattern qanday turlarga bo'linadi?</li>
+        <li>Creational Design Patterns nimaga yordam beradi?</li>
+        <li>Singelton nima?</li>
+        <li>Builder nima?</li>
+        <li>Factory Method nima?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Class Design Hints</summary>
+      <ul>
+         <li>Class yaratyotganda nimalarga ahamiyat qaratishimiz kerak?</li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>JShell</summary>
+      <ul>
+        <li>JShell nima?</li>
+      </ul>
+    </details>
+  </ul>
+</details>
+
+<details>
+  <summary>Lesson 10</summary>
+  <ul>
+    <details>
+      <summary>Objects Class</summary>
+      <ul>
+         <li>Objects Class qanday class?</li>
+         <li>Objects classini qanday methodlari bor?</li>
+      </ul>
+    </details>
+  </ul>
+  <ul>
+    <details>
+      <summary>Generating Documentation</summary>
+      <ul>
+        <li>JavaDoc nima?</li>
+        <li>JavaDoc nima uchun kerak?</li>
+        <li>JavaDoc nimalar uchun documentation yaratadi?</li>
+        <li>Documentation yaratish uchun qanday buyruq yoziladi?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>UUID</summary>
+      <ul>
+         <li>UUID nima?</li>
+        <li>UUID nima uchun kerak?</li>
+      </ul>
+    </details>
+  </ul>
+</details>
 
 
 
