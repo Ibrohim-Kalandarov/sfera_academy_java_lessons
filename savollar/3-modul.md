@@ -50,3 +50,218 @@
      </details> 
    </ul>
 </details>
+
+<details>
+  <summary>Lesson 2</summary>
+  <ul>
+    <details>
+      <summary>Generics</summary>
+      <ul>
+        <li>Generic nima?</li>
+        <li>Genericlarni foydali tomonlari nimada?</li>
+        <li>Genericlarni qayerlarda e'lon qila olamiz?</li>
+        <li>Genetic va Object o'rtasida qanday farq bor?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>Bounds for Type Variable</summary>
+      <ul>
+        <li>Single Bounds nima?</li>
+        <li>Bounds turlaridan nima uchun foydalanamiz?</li>
+        <li>Qanday Bounds turlari bor?</li>
+        <li>Multiple Bounds nima?</li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>Generic code and Virtual Machine</summary>
+      <ul>
+        <li>Type Erasure nima?</li>
+        <li>Type Erasurelar methodda ham sodir bo'ladimi?</li>
+        <li>Raw type nima?</li>
+        <li>Warnings nima?</li>
+        <li>Raw typelardan foydalanishdan nima uchun qochish kerak?</li>
+      </ul>
+    </details>
+  </ul> 
+   <ul>
+    <details>
+      <summary>Restrictions and Limitations</summary>
+      <ul>
+        <li>Genericlarda qanday cheklovlar mavjud?</li>
+      </ul>
+    </details>
+  </ul> 
+   <ul>
+    <details>
+      <summary>Inheritance Rules for Generic Types</summary>
+      <ul>
+        <li>Genericlardan qanday qoida bor vorisliklar bilan ishlaganda?</li>
+        <li>Genericlarda SuperClass type da elan qilingan arrayga sub class arrayini ozlashtira olamizmi?</li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 3</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 4</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 5</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 6</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 7</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 8</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 9</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
+
+<details>
+  <summary>Lesson 10</summary>
+  <ul>
+    <details>
+      <summary>A</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul>
+   <ul>
+    <details>
+      <summary>B</summary>
+      <ul>
+        <li></li>
+      </ul>
+    </details>
+  </ul> 
+</details>
