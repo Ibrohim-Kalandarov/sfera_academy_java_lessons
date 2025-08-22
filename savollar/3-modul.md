@@ -110,20 +110,61 @@
   <summary>Lesson 3</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Dynamic Array</summary>
       <ul>
-        <li></li>
+        <li>Dynamic Array bilan qanday muammo bor?</li>
+        <li>Dynamic Array afzalliklari?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>Collections Framework</summary>
       <ul>
-        <li></li>
+        <li>Collections Framework nima?</li>
+        <li>Collections Framework ning qanday qulaylik taraflari bor?</li>
+        <li>Collections Framework ning superclassi qaysi?</li>
+        <li>Collection ni qanday turlari bor?</li>
+        <li>Map Collectionni ichiga kiradimi?</li>
+        <li>Collectionda primitive typelar ishlata olamizmi?</li>
+        <li>Collection nima uchun kerak?</li>
+        <li>Collection Framework qaysi package da joylashgan?</li>
+        <li>Collection Framework sort qilish uchun asosiy methodlarini ayting</li>
+        <li>JVM Collection ichidagi obyektlarni xotirada qanday saqlaydi?</li>
       </ul>
     </details>
   </ul> 
+    <ul>
+    <details>
+      <summary>List Interface</summary>
+      <ul>
+        <li>List interface nima?</li>
+        <li>List interface asosiy xususiyatlari?</li>
+        <li>List interface ni superclassi qaysi?</li>
+        <li>List interface subclasslari qaysi?</li>
+      </ul>
+    </details>
+  </ul>
+    <ul>
+    <details>
+      <summary>ArrayList</summary>
+      <ul>
+        <li>ArrayList nima?</li>
+        <li>ArrayList superclasslari qaysilar?</li>
+        <li>ArrayList qaysi marker interfacelardan implement olgan?</li>
+        <li>ArrayList ning asosiy xususiyatlarini ayting</li>
+        <li>ArrayList dublikat elemetlar saqlaydimi?</li>
+        <li>ArrayList ga null qo'sha olamizmi?</li>
+        <li>ArrayList elementlarni qanday tartibda saqlaydi?</li>
+        <li>ArrayList bilan Dynamic Array o'rtasidagi farq?</li>
+        <li>ArrayList ni kamchiliklari?</li>
+        <li>ArrayList ning loadFactorysi necha foiz?</li>
+        <li>ArrayList ni necta constructori bor va ularning bir biridan farqi?</li>
+        <li>ArrayList ga element qo'shishning necha xil usuli bor?</li>
+        <li>ArrayList dan elementlarni olishning necha xil usuli bor?</li>
+      </ul>
+    </details>
+  </ul>
 </details>
 
 <details>
@@ -265,3 +306,4 @@
     </details>
   </ul> 
 </details>
+
