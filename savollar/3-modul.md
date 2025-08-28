@@ -171,40 +171,107 @@
   <summary>Lesson 4</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>LinkedList</summary>
       <ul>
-        <li></li>
+        <li>LinkedList nima?</li>
+        <li>LinkedList elementlarni xotirada qanday saqlaydi?</li>
+        <li>LinkedListning qanday turlari bor?</li>
+        <li>LinkedListni ArrayListdan qanday afzalligi bor?</li>
+        <li>LinkedList kamchiliklari?</li>
+        <li>LinkedListda index bormi?</li>
+        <li>LinkedList capacitysi nima uchun 0 ?</li>
+        <li>Node nima?</li>
+        <li>LinkedList qanday data strukturadan foydalanadi?</li>
+        <li>LinkedList LoadFactorysi necha foiz?</li>
+        <li>LinkedList superclassi qaysi?</li>
+        <li>LinkedListdan elementlarni olish nima uchun sekin?</li>
+        <li>LinkedList qaysi interfacelardan implement olgan?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>Vector Class</summary>
       <ul>
-        <li></li>
+        <li>Vector nima?</li>
+        <li>Vector classini superclassi qaysi?</li>
+        <li>Vector nima uchun JDK 5 dan depreceted hisoblanadi?</li>
+        <li>Vector ni initial capacitysi nechchi?</li>
+        <li>Vector va ArrayList o'rtasidagi farq?</li>
+        <li>Vector Thread-safemi?</li>
+        <li>Vector nima uchun ArrayListdan sekin?</li>
+        <li>Vector ga iteratsiya paytida o'zgartirish kiritsak nima bo'ladi?</li>
       </ul>
     </details>
   </ul> 
+     <ul>
+    <details>
+      <summary>Stack Class</summary>
+      <ul>
+        <li>Stack nima?</li>
+        <li>Stack classini superclassi qaysi?</li>
+        <li>Stack Thread-safemi?</li>
+        <li>Stack classini afzalliklari?</li>
+      </ul>
+    </details>
+  </ul>
 </details>
 
 <details>
   <summary>Lesson 5</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Set & HashSet</summary>
       <ul>
-        <li></li>
+        <li>Set nima?</li>
+        <li>Set ni asosiy xususiyatlari?</li>
+        <li>Set va List o'rtasidagi farqlar?</li>
+        <li>Set Interfaceni subclasslari?</li>
+        <li>HashSet nima?</li>
+        <li>HashSet elementlarni saqlash uchun nimadan foydalanadi?</li>
+        <li>HashSet Thread-safemi?</li>
+        <li>HashSet elementlarni kiritish tartibida saqlaydimi?</li>
+        <li>HashSet nima uchun dublicate elementlarni saqlamaydi?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>LinkedHashSet</summary>
       <ul>
-        <li></li>
+        <li>LinkedHashSet nima?</li>
+        <li>LinkedHashSet va HashSet o'rtasidagi farq?</li>
+        <li>LinkedHashSet Thread-safemi?</li>
+        <li>LinkedHashSet afzalliklari?</li>
       </ul>
     </details>
   </ul> 
+   <ul>
+    <details>
+      <summary>Comparator & Comparable</summary>
+      <ul>
+        <li>Comparator nima?</li>
+        <li>Comparable nima?</li>
+        <li>Comparator va Comparable interfacelari o'rtasidagi farq?</li>
+        <li>Java-ni nechinchi versiyasida qo'shilgan?</li>
+        <li>Qachon biz ushbu ikkala interfacelardan foydalanishimiz kerak?</li>
+      </ul>
+    </details>
+  </ul>
+     <ul>
+    <details>
+      <summary>TreeSet</summary>
+      <ul>
+        <li>TreeSet nima?</li>
+        <li>TreeSet dublicate elementlarni saqlaydimi?</li>
+        <li>TreeSet null saqlaydimi?</li>
+        <li>TreeSet elementlarni qanday saqlaydi xotirada?</li>
+        <li>TreeSet irarxiyasini ayting?</li>
+        <li>TreeSet va HashSet o'rtasidagi farq?</li>
+        <li>TreeSet elementlarni nima uchun sortlab saqlaydi?</li>
+      </ul>
+    </details>
+  </ul>
 </details>
 
 <details>
@@ -306,4 +373,5 @@
     </details>
   </ul> 
 </details>
+
 
