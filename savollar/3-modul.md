@@ -278,17 +278,31 @@
   <summary>Lesson 6</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Queue Data Structure</summary>
       <ul>
-        <li></li>
+        <li>Queue nima?</li>
+        <li>FIFO nima?</li>
+        <li>Queue Interface methodlari qaysilar?</li>
+        <li>Queue necha xil turi bor?</li>
+        <li>Queue asosiy xususiyatlari?</li>
+        <li>Queuega null qiymat qo'shish mumkinmi?</li>
+        <li>Queuega dublicate element qo'shish mumkinmi?</li>
+        <li>Queue Interface sub-interfacelari?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>Queue Interface</summary>
       <ul>
-        <li></li>
+        <li>PriorityQueue nima?</li>
+        <li>PriorityQueuega null qiymat qo'shish mumkinmi?</li>
+        <li>PriorityQueueni asosiy xususiyatlari qaysilar?</li>
+        <li>PriorityQueue thread-safemi?</li>
+        <li>Deque nima?</li>
+        <li>Dequeni irarhiyasini aytib bering?</li>
+        <li>Dequeni asosiy xususiyatlari qaysilar?</li>
+        <li>LIFO nima?</li>
       </ul>
     </details>
   </ul> 
@@ -298,17 +312,69 @@
   <summary>Lesson 7</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Map</summary>
       <ul>
-        <li></li>
+        <li>Map nima?</li>
+        <li>Map Interfaceni subclasslari qaysilar?</li>
+        <li>Map asosiy xususiyatlari</li>
+        <li>Map Hirarchy ayting</li>
+        <li>Map nima uchun Object classini hashCode() methodidan foydalanadi?</li>
+        <li>Mapni qaysi operatsiyalar uchun ishlatamiz?</li>
+        <li>Map Key nima Value nima?</li>
+        <li>Map Keyga null qiymat qo'shishimiz mumkinmi?</li>
+        <li>Mapni Iteratsiya paytida o'zgartirsak nima sodir bo'ladi?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>HashMap</summary>
       <ul>
-        <li></li>
+        <li>HashMap nima?</li>
+        <li>HashMap asosiy xususiyatlari nimada?</li>
+        <li>HashMap va HashSet o'rtasidagi farq?</li>
+        <li>HashMap elementlarni qanday tartibda saqlaydi?</li>
+        <li>HashMap key ga duplicate elementlarni saqlashimiz mumkinmi?</li>
+        <li>HashMap initial capacitysi va loadFactoryni ayting?</li>
+        <li>HashMap tez yoki HashSet?</li>
+        <li>HashMapdan nechi xil yo'l bilan elementlarni olishimiz mumkin?</li>
+      </ul>
+    </details>
+  </ul> 
+  <ul>
+    <details>
+      <summary>LinkedHashMap</summary>
+      <ul>
+        <li>LinkedHashMap nima?</li>
+        <li>LinkedHashMap va HashMap o'rtasidagi farq nimada?</li>
+        <li>LinkedHashMap thread-safemi?</li>
+        <li>LinkedHashMap elementlarni qanday tartibda saqlaydi?</li>
+        <li>LinkedHashMap Keyga null qiymat qo'shish mumkinmi?</li>
+      </ul>
+    </details>
+  </ul> 
+  <ul>
+    <details>
+      <summary>TreeMap</summary>
+      <ul>
+        <li>TreeMap nima?</li>
+        <li>TreeMapda saqlanadigan elementlar nima uchun Comparabledan impl olishi kerak?</li>
+        <li>TreeMap va HashMap o'rtasidagi farq nimada?</li>
+        <li>TreeMap qanday data structuradan foydalanadi?</li>
+        <li>TreeMap elementlarini kiritish tartibida saqlaydimi?</li>
+      </ul>
+    </details>
+  </ul> 
+  <ul>
+    <details>
+      <summary>WeakHashMap</summary>
+      <ul>
+        <li>Javada Referenselarni nechta turi bor?</li>
+        <li>WeakReferense Nima?</li>
+        <li>WeakHashMap nima?</li>
+        <li>WeakHashMap thread-safemi?</li>
+        <li>WeakHashMap elementlarni kiritish tartibini saqlaydimi?</li>
+        <li>WeakHashMap va HashMap o'rtasidagi farq nimada?</li>
       </ul>
     </details>
   </ul> 
@@ -318,17 +384,36 @@
   <summary>Lesson 8</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Views</summary>
       <ul>
-        <li></li>
+        <li>View nima?</li>
+        <li>Empty View nima?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>Shallow Copy & Deep Copy</summary>
       <ul>
-        <li></li>
+        <li>Shallow Copy nima?</li>
+        <li>Deep Copy nima?</li>
+        <li>Shallow Copy va Deep Copy o'rtasidagi farq</li>
+        <li>Shallow Copyni qayerda ishlatamiz?</li>
+        <li>Deep Copyni qayerda ishlatamiz?</li>
+      </ul>
+    </details>
+  </ul> 
+    <ul>
+    <details>
+      <summary>Iterator & ListIterator</summary>
+      <ul>
+        <li>Iterator nima?</li>
+        <li>Javada Iteratorni nechta turi bor?</li>
+        <li>Iterator hasNext() methodini vazifasi nima?</li>
+        <li>Iterator ishlashini tushuntirib bering</li>
+        <li>ListIterator nima?</li>
+        <li>Fail-Safe iterators nima?</li>
+        <li>Fail-Fast iterators nima?</li>
       </ul>
     </details>
   </ul> 
@@ -338,17 +423,21 @@
   <summary>Lesson 9</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Optional class</summary>
       <ul>
-        <li></li>
+        <li>Optional class nima?</li>
+        <li>Optional ifPresent() methodini vazifasi nima?</li>
+        <li>Optionalni maqsadi nima?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>SOLID</summary>
       <ul>
-        <li></li>
+        <li>SOLID nima?</li>
+        <li>SOLID ni tushuntirib bering</li>
+        <li>SOLID ni nima uchun o'rganishimiz kerak?</li>
       </ul>
     </details>
   </ul> 
@@ -358,20 +447,41 @@
   <summary>Lesson 10</summary>
   <ul>
     <details>
-      <summary>A</summary>
+      <summary>Legacy Collections</summary>
       <ul>
-        <li></li>
+        <li>Properties nima?</li>
+        <li>Propertieslardan qachon foydalanamiz?</li>
+        <li>HashTable nima?</li>
+        <li>HashTableni qachon ishlatamiz?</li>
+        <li>HashTable thread-safemi?</li>
+        <li>Stack nima?</li>
+        <li>LIFO nima?</li>
+        <li>Deque va Stack o'rtasidagi farq?</li>
+        <li>Stack thread-safemi?</li>
       </ul>
     </details>
   </ul>
    <ul>
     <details>
-      <summary>B</summary>
+      <summary>Internationalization</summary>
       <ul>
-        <li></li>
+        <li>i18n nima?</li>
+        <li>ResourceBundle nima?</li>
+        <li>ResourceBundle qanday holatlarda foydalanamiz?</li>
+      </ul>
+    </details>
+  </ul> 
+     <ul>
+    <details>
+      <summary>Wildcard Types</summary>
+      <ul>
+        <li>Wildcard Type nima?</li>
+        <li>Wildcard Typedan qanday holatlarda foydalanishimiz kerak?</li>
+        <li>super va extends keywordlarini tushuntirib bering</li>
       </ul>
     </details>
   </ul> 
 </details>
+
 
 
