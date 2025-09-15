@@ -1,4 +1,4 @@
-### **Uchinchi modul uchun intervyu savollar**
+# **Uchinchi modul uchun intervyu savollar**
 
 <details>
   <summary>Lesson 1</summary>
@@ -482,6 +482,7 @@
     </details>
   </ul> 
 </details>
+
 
 
 
