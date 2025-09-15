@@ -1,4 +1,4 @@
-### **Ikkinchi modul uchun intervyu savollar**
+# **Ikkinchi modul uchun intervyu savollar**
 
 <details>
   <summary>Lesson 1</summary>
